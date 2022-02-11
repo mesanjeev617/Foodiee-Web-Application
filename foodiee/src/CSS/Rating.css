@@ -1,0 +1,14 @@
+.rating span {
+    color: red;
+    margin: 0.1rem;
+  }
+  
+  /*Yo review ko color chai change garna khojya vayena 8.36 Rating and product*/
+  #reviewrating {
+    color: rgb(15, 15, 15);
+  }
+  
+  .rating span:last-child {
+    color: #404040;
+  }
+  
